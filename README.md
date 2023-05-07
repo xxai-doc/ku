@@ -7,3 +7,4 @@ Koda pêşîn a malperê çavkaniyek vekirî ye, hûn bi xêr hatin ku alîkariy
 * [koda pêş-end](https://github.com/xxai-art/web)
 * [Ji bo malperê bi tevahî pakêtên zimanî](https://github.com/xxai-art/web/tree/main/i18n)
 * [Ji bo modulên têketinê pakêtên ziman](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Malpera Belgekirina Pirzimanî](https://github.com/xxai-doc)
