@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , li ser bingeha hevoksaziya coffeescript hin taybetmendiyan zêde bikin, li [coffee_plus](./coffee_plus.md) binêre.
 
-* guherbar îlan bike
+## guherbar îlan bike
 
 ```
 + var1, var2
 ```
 
-* labelê daxuyaniyê
+## labelê daxuyaniyê
 
 `:$` ji bo bikaranîna [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) ye.
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* import bi lez
+## import bi lez
 
 ```
 > zx/globals:
